@@ -1,0 +1,19 @@
+{
+  "name": "breakout-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bangalia/Breakout-Tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bangalia/Breakout-Tutorial/issues"
+  },
+  "homepage": "https://github.com/bangalia/Breakout-Tutorial#readme"
+}
