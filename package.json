@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "lint":"eslint"
+    "lint": "eslint",
+    "develop": "webpack --mode development --watch",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
@@ -16,7 +18,10 @@
   },
   "homepage": "https://github.com/bangalia/Breakout-Tutorial#readme",
   "devDependencies": {
-    "eslint": "^8.8.0"
+    "eslint": "^8.8.0",
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
   },
+  "keywords": [],
   "description": ""
 }
